@@ -1,0 +1,116 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.site-title{
+    padding:6rem;
+}
+.banner-image{
+    padding:5rem;
+}
+#first{
+    color: white;
+    
+}
+#second{
+    color: white;
+    padding-right: 100px;
+    text-align: justify;
+}
+
+h1{
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 48px;
+    line-height: 72px;
+    color: white;
+    
+}
+.title-text{
+  font-weight: 900;
+    margin-top: 3rem;
+   
+font-size: 48px;
+line-height: 72px;
+
+}
+.site-banner{
+    background-color: #264653;
+}
+#featured{
+    margin-top: 6rem;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 0px;
+    text-align:center;
+    color: black;
+    
+}
+.row{
+    padding: 3rem;
+}
+#third{
+    color: #E76F51;
+    text-align: center;
+}
+.client{
+    
+    color:#E76F51;
+    line-height: 3rem;
+    font-size: 48px;
+}
+
+
+/* newsletter */
+.sub{
+    color: white;}
+
+.newsletter {
+    padding: 80px 0;
+    background: #ff3647;
+    }
+    
+    .newsletter .content {
+    max-width: 650px;
+    margin:0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2; }
+    .newsletter .content h2 {
+    color: #243c4f;
+    margin-bottom: 40px; }
+    .newsletter .content .form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius:0;
+    }
+    .newsletter .content.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #243c4f;
+    }
+    .newsletter .content .btn {
+    min-height: 50px; 
+    border-radius:0;
+    background: #243c4f;
+    color: #fff;
+    font-weight:600;
+    }
+.btn{
+    background-color: #E76F51 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
